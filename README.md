@@ -9,21 +9,22 @@ Sou um desenvolvedor focado em criar interfaces modernas, funcionais e responsiv
 
 Aqui estão as tecnologias que utilizo no meu dia a dia de desenvolvimento:
 
-<div id="badges">
-  <img src="shields.io" alt="HTML5"/>
-  <img src="shields.io" alt="CSS3"/>
-  <img src="shields.io" alt="Ruby"/>
-  <img src="shields.io" alt="Git"/>
-</div>
+<p align="left">
+  <img src="shields.io" alt="HTML5" />
+  <img src="shields.io" alt="CSS3" />
+  <img src="shields.io" alt="JavaScript" />
+  <img src="shields.io" alt="Ruby" />
+  <img src="shields.io" alt="Git" />
+</p>
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="vercel.app"/>
-  <img height="180em" src="vercel.app"/>
-</div>
+<p align="center">
+  <img height="180em" src="vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="vercel.app" alt="Linguagens Mais Usadas" />
+</p>
 
 ---
 
@@ -31,11 +32,12 @@ Aqui estão as tecnologias que utilizo no meu dia a dia de desenvolvimento:
 
 Sinta-se à vontade para entrar em contato comigo para conversar sobre projetos, oportunidades ou tecnologia!
 
-<div id="redes">
+<p align="left">
   <a href="linkedin.com" target="_blank">
-    <img src="shields.io" alt="LinkedIn"/>
+    <img src="shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@dominio.com">
-    <img src="shields.io" alt="Email"/>
+  <a href="mailto:gabryellsilva.contato@gmail.com">
+    <img src="shields.io" alt="Email" />
   </a>
-</div>
+</p>
+
